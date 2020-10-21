@@ -1,0 +1,12 @@
+#VS code
+.vscode/*
+.history
+
+#Other
+user_pass.txt
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
